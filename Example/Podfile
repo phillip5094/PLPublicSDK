@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PLPublicSDK_Tests' do
+  pod 'PLPublicSDK', :path => '../'
+  
+  
+end
