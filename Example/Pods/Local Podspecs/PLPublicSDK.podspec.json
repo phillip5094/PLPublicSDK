@@ -1,0 +1,22 @@
+{
+  "name": "PLPublicSDK",
+  "version": "0.1.0",
+  "summary": "A short description of PLPublicSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/58776221/PLPublicSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "58776221": "philip.chung@nhn.com"
+  },
+  "source": {
+    "git": "https://github.com/58776221/PLPublicSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PLPublicSDK/Classes/**/*"
+}

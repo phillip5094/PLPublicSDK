@@ -1,0 +1,6 @@
+framework module PLPublicSDK {
+  umbrella header "PLPublicSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
